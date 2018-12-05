@@ -18,7 +18,7 @@ namespace SfListViewSample
         private string contactNo;
         private ImageSource image;
         private string contactType;
-        private string searchtext;
+        private string entrytext;
         #endregion
 
         #region Constructor
@@ -32,13 +32,13 @@ namespace SfListViewSample
 
         #region Public Properties
 
-        public string SearchText
+        public string Entrytext
         {
-            get { return this.searchtext; }
+            get { return this.entrytext; }
             set
             {
-                this.searchtext = value;
-                RaisePropertyChanged("SearchText");
+                this.entrytext = value;
+                RaisePropertyChanged("Entrytext");
             }
         }
         public string ContactName

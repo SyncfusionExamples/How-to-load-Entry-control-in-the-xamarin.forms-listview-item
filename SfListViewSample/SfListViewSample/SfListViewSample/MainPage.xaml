@@ -18,7 +18,7 @@
                     <ViewCell>
                         <ViewCell.View>
                             <StackLayout>
-                                <SearchBar Placeholder="Type text here" HeightRequest="70" Text="{Binding SearchText}" />
+                                <Entry Placeholder="Type text here" HeightRequest="70" Text="{Binding  Entrytext}" />
                             </StackLayout>
                         </ViewCell.View>
                     </ViewCell>
