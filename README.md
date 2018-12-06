@@ -1,7 +1,7 @@
 # How to load Entry control in the xamarin.forms listview item?
 This example demonstrate how to load Entry control in the xamarin.forms listview item and retained the typed value while scrolling.
 
-See [How to load Entry control in the xamarin.forms listview item]() for more details.
+See [How to load Entry control in the xamarin.forms listview item](https://www.syncfusion.com/kb/9973/how-to-load-the-entry-control-in-xamarin-forms-listview-item) for more details.
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
